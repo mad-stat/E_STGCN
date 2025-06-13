@@ -22,7 +22,7 @@ Panja, M., Chakraborty, T., Biswas, A., & Deb, S. (2024).\
 E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting.\
 arXiv preprint arXiv:2411.12258.
 
-@article{panja2024stgcn,\
+@article{panja2024estgcn,\
   title={E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting},\
   author={Panja, Madhurima and Chakraborty, Tanujit and Biswas, Anubhab and Deb, Soudeep},\
   journal={arXiv preprint arXiv:2411.12258},\
