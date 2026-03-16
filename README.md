@@ -26,8 +26,8 @@ DOI: https://doi.org/10.1093/jrsssa/qnag010
 @article{panja2026estgcn,\
   title={E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting},\
   author={Panja, Madhurima and Chakraborty, Tanujit and Biswas, Anubhab and Deb, Soudeep},\
+  doi={https://doi.org/10.1093/jrsssa/qnag010},  
   journal={Journal of the Royal Statistical Society Series A: Statistics in Society},\
-  doi={https://doi.org/10.1093/jrsssa/qnag010},\
   year={2026}
 }
 
