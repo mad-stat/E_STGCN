@@ -18,18 +18,20 @@ Usage of the repository for the paper "Extreme Spatiotemporal Graph Convolutiona
 
 
 ## Citing Our Work
-Panja, M., Chakraborty, T., Biswas, A., & Deb, S. (2024).\
+Panja, M., Chakraborty, T., Biswas, A., & Deb, S. (2026).\
 E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting.\
-arXiv preprint arXiv:2411.12258.
+Journal of the Royal Statistical Society Series A: Statistics in Society.\
+DOI: https://doi.org/10.1093/jrsssa/qnag010
 
-@article{panja2024estgcn,\
+@article{panja2026estgcn,\
   title={E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting},\
   author={Panja, Madhurima and Chakraborty, Tanujit and Biswas, Anubhab and Deb, Soudeep},\
-  journal={arXiv preprint arXiv:2411.12258},\
-  year={2024}
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},\
+  doi={https://doi.org/10.1093/jrsssa/qnag010},\
+  year={2026}
 }
 
 
 ## References
 * <a id="1">[1]</a> [Delhi air quality data](https://cpcb.nic.in/real-time-air-qulity-data/)
-* <a id="2">[2]</a> [Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting.](https://arxiv.org/abs/2411.12258)
+* <a id="2">[2]</a> [Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting.](https://doi.org/10.1093/jrsssa/qnag010)
